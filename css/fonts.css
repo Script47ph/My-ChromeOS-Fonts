@@ -1,0 +1,23 @@
+/* Style Fonts */
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(fonts/MesloLGS\ NF\ Regular.woff) format("woff");
+  font-style: normal;
+}
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(fonts/MesloLGS\ NF\ Italic.woff) format("woff");
+  font-style: italic;
+}
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(fonts/MesloLGS\ NF\ Bold.woff) format("woff");
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(fonts/MesloLGS\ NF\ Bold\ Italic.woff) format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
